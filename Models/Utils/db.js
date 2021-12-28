@@ -1,7 +1,7 @@
 const mongoose =require('mongoose');
 
 
-const mongoURL= "mongodb+srv://yeab19:lbgoJeCmq0xXnp9E@cluster0.gsyr1.mongodb.net/shopingDatabase?retryWrites=true&w=majority";
+const mongoURL= "";
 //const mongoURL ="";
 const connectDB = async () => {
     try {
