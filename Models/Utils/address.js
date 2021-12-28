@@ -6,4 +6,4 @@ module.exports = class Address{
        this.zipCode =zipCode;
        this.street=street;
    }
-}
+};
